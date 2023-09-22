@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(228, 218, 218);
+}
+
+.registro{
+    text-align: center;
+    background-color: rgba(163, 154, 154, 0.753);
+    width: 300px;
+    margin: auto;
+}
+
+.login{
+    text-align: center;
+    background-color: rgba(163, 154, 154, 0.753);
+    width: 300px;
+    margin: auto;
+}
+
+button{
+    border-radius: 5px;
+    margin-top: 10px;
+    width: 80px;
+    height: 30px;
+}
+
+input{
+    border-radius: 5px;
+    border: none;
+    box-shadow: 1px 2px 8px black;
+    margin-top: 10px;
+
+}
